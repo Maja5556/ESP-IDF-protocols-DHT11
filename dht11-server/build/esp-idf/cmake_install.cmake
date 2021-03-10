@@ -108,6 +108,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/unity/cmake_install.cmake")
   include("C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/wifi_provisioning/cmake_install.cmake")
   include("C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/main/cmake_install.cmake")
+  include("C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/protocol_examples_common/cmake_install.cmake")
+  include("C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/esp32-DHT11/cmake_install.cmake")
 
 endif()
 

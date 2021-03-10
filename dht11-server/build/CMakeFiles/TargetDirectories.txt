@@ -606,3 +606,17 @@ C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-id
 C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/main/CMakeFiles/rebuild_cache.dir
 C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/main/CMakeFiles/list_install_components.dir
 C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/main/CMakeFiles/install/strip.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/protocol_examples_common/CMakeFiles/__idf_protocol_examples_common.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/protocol_examples_common/CMakeFiles/install/local.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/protocol_examples_common/CMakeFiles/install.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/protocol_examples_common/CMakeFiles/edit_cache.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/protocol_examples_common/CMakeFiles/rebuild_cache.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/protocol_examples_common/CMakeFiles/list_install_components.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/protocol_examples_common/CMakeFiles/install/strip.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/esp32-DHT11/CMakeFiles/rebuild_cache.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/esp32-DHT11/CMakeFiles/__idf_esp32-DHT11.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/esp32-DHT11/CMakeFiles/install/local.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/esp32-DHT11/CMakeFiles/install.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/esp32-DHT11/CMakeFiles/edit_cache.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/esp32-DHT11/CMakeFiles/list_install_components.dir
+C:/Users/Maja/Documents/GitHub/ESP-IDF-protocols-DHT11/dht11-server/build/esp-idf/esp32-DHT11/CMakeFiles/install/strip.dir

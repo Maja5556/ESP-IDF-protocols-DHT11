@@ -22,6 +22,7 @@
 #include "mdns.h"
 #include "lwip/apps/netbiosns.h"
 #include "protocol_examples_common.h"
+#include "dht11.h"
 
 
 
