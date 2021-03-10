@@ -31,8 +31,9 @@ export default {
       .then(data => {
         this.temperature = data.data.temperature;
         
+        
       })
-      .get("/api/v1/moisture/raw")
+       .get("/api/v1/moisture/raw")
       .then(data => {
         this.moisture = data.data.moisture;
         
