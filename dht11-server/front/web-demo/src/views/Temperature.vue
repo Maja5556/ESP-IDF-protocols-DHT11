@@ -17,21 +17,21 @@
 
 <script>
 export default {
-  data() {
+  data () {
     return {
       temperature: null,
       moisture: null
-    };
+    }
   },
-  mounted() {
+  mounted () {
     this.$ajax
-      .get("/api/v1/temp/raw")
-      .then(data => {
-        this.temperature = data.data.temperature;
+      .get('/api/v1/temp/raw')
+      .then((data) => {
+        this.temperature = data.data.temperature
       })
-      .catch(error => {
-        console.log(error);
-      });
+      .catch((error) => {
+        console.log(error)
+      })
   }
-};
+}
 </script>

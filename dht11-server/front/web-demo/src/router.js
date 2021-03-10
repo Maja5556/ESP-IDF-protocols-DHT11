@@ -1,8 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from './views/Home.vue'
-//import Chart from './views/Chart.vue'
-import Light from './views/Light.vue'
+import Temperature from './views/Temperature.vue'
+import Humidity from './views/Humidity.vue'
 
 Vue.use(Router)
 
@@ -12,13 +11,13 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: Home
+      name: 'Temperature',
+      component: Temperature
     },
     {
       path: '/light',
-      name: 'light',
-      component: Light
+      name: 'Humidity',
+      component: Humidity
     }
   ]
 })

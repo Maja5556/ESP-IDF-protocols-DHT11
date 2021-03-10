@@ -7,7 +7,7 @@
             <v-icon>home</v-icon>
           </v-list-tile-action>
           <v-list-tile-content>
-            <v-list-tile-title>Home</v-list-tile-title>
+            <v-list-tile-title>Temperature</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
         <v-list-tile to="/light">
@@ -15,7 +15,7 @@
             <v-icon>highlight</v-icon>
           </v-list-tile-action>
           <v-list-tile-content>
-            <v-list-tile-title>Light</v-list-tile-title>
+            <v-list-tile-title>Humidity</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
       </v-list>
@@ -37,11 +37,11 @@
 
 <script>
 export default {
-  name: "App",
-  data() {
+  name: 'App',
+  data () {
     return {
       drawer: null
-    };
+    }
   }
-};
+}
 </script>
