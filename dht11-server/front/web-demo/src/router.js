@@ -15,11 +15,6 @@ export default new Router({
       name: 'home',
       component: Home
     },
-    //{
-     // path: '/chart',
-     // name: 'chart',
-     // component: Chart
-    //},
     {
       path: '/light',
       name: 'light',

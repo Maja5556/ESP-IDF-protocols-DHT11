@@ -3,7 +3,7 @@
     <v-layout text-xs-center wrap>
       <v-flex xs12 sm6 offset-sm3>
         <v-card>
-          <v-img :src="require('../assets/moisture.png')" contain height="200"></v-img>
+          <v-img :src="require('../assets/humidity.png')" contain height="200"></v-img>
           <v-card-title primary-title>
             <div class="ma-auto">
               <span class="grey--text">Moisture: {{moisture}}</span>
