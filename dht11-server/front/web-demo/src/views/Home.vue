@@ -6,7 +6,7 @@
           <v-img :src="require('../assets/temperature.png')" contain height="200"></v-img>
           <v-card-title primary-title>
             <div class="ma-auto">
-              <span class="grey--text">Temperature: {{temperature}}</span>
+              <span class="black--text">Temperature: {{temperature}} °C</span>
             </div>
           </v-card-title>
         </v-card>
@@ -28,11 +28,6 @@ export default {
       .get("/api/v1/temp/raw")
       .then(data => {
         this.temperature = data.data.temperature;
-      })
-       .get("/api/v1/moisture/raw")
-      .then(data => {
-        this.moisture = data.data.moisture;
-        
       })
       .catch(error => {
         console.log(error);
