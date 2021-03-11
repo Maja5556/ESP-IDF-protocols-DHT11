@@ -2,7 +2,7 @@
   <v-app id="inspire">
     <v-navigation-drawer v-model="drawer" fixed app clipped>
       <v-list dense>
-        <v-list-tile to="/">
+        <v-list-tile to="/temperature">
           <v-list-tile-action>
             <v-icon>home</v-icon>
           </v-list-tile-action>
@@ -10,7 +10,7 @@
             <v-list-tile-title>Temperature</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
-        <v-list-tile to="/light">
+        <v-list-tile to="/humidity">
           <v-list-tile-action>
             <v-icon>highlight</v-icon>
           </v-list-tile-action>

@@ -10,12 +10,12 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/',
+      path: '/temperature',
       name: 'Temperature',
       component: Temperature
     },
     {
-      path: '/light',
+      path: '/humidity',
       name: 'Humidity',
       component: Humidity
     }

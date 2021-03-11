@@ -6,7 +6,7 @@
           <v-img :src="require('../assets/humidity.png')" contain height="200"></v-img>
           <v-card-title primary-title>
             <div class="ma-auto">
-              <span class="black--text">Humidity: {{moisture}} %</span>
+              <span class="black--text">Humidity: {{humidity}} %</span>
             </div>
           </v-card-title>
         </v-card>
@@ -20,14 +20,14 @@ export default {
   data () {
     return {
       temperature: null,
-      moisture: null
+      humidity: null
     }
   },
   mounted () {
     this.$ajax
-      .get('/api/v1/moisture/raw')
+      .get('/api/v1/humidity/raw')
       .then((data) => {
-        this.moisture = data.data.moisture
+        this.humidity = data.data.humidity
       })
       .catch((error) => {
         console.log(error)
