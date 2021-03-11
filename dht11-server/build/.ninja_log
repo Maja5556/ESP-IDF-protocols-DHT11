@@ -2117,3 +2117,17 @@
 9977	22635	6371562769693789	restful_server.elf	e27dfed3f2947f9d
 22637	23677	6371562780978340	.bin_timestamp	ad4f7c302eef99db
 23679	56063	0	CMakeFiles/flash	6030dd673ca19bff
+17	32211	6371566092357639	build.ninja	ab5327940ca90624
+161	373	6370780834257277	bootloader-prefix/src/bootloader-stamp/bootloader-build	32b8e2e94da6e6f6
+161	373	6370780834257277	bootloader/bootloader.elf	32b8e2e94da6e6f6
+161	373	6370780834257277	bootloader/bootloader.bin	32b8e2e94da6e6f6
+161	373	6370780834257277	bootloader/bootloader.map	32b8e2e94da6e6f6
+165	1132	6371566105875086	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_app_desc.c.obj	8e1bb5066ceb1afb
+1134	1821	6371566112648827	esp-idf/app_update/libapp_update.a	cbff507b1df15e4f
+169	2455	0	esp-idf/main/CMakeFiles/spiffs_www_bin	537d644933f38ab
+1823	4202	6371566136671361	esp-idf/main/CMakeFiles/__idf_main.dir/rest_server.c.obj	7f3209f421eeb06a
+4204	4373	6371566138633785	esp-idf/main/libmain.a	3e1e80f0102aa877
+4374	11925	6371566213147616	esp-idf/esp32/ld/esp32.project.ld	e395d284630f50f3
+11926	29516	6371566388977041	restful_server.elf	e27dfed3f2947f9d
+29518	31335	6371566408319847	.bin_timestamp	ad4f7c302eef99db
+31336	64754	0	CMakeFiles/flash	6030dd673ca19bff
